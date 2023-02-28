@@ -1,0 +1,8 @@
+D:\study\(문법공부\c,c#,c++\C#\새 폴더\RoadBook.CsharpBasic.Chapter03\MyfirstApp02\bin\Debug\MyfirstApp02.exe.config
+D:\study\(문법공부\c,c#,c++\C#\새 폴더\RoadBook.CsharpBasic.Chapter03\MyfirstApp02\bin\Debug\MyfirstApp02.exe
+D:\study\(문법공부\c,c#,c++\C#\새 폴더\RoadBook.CsharpBasic.Chapter03\MyfirstApp02\bin\Debug\MyfirstApp02.pdb
+D:\study\(문법공부\c,c#,c++\C#\새 폴더\RoadBook.CsharpBasic.Chapter03\MyfirstApp02\obj\Debug\RoadBook.CsharpBasic.Chapter03.csproj.AssemblyReference.cache
+D:\study\(문법공부\c,c#,c++\C#\새 폴더\RoadBook.CsharpBasic.Chapter03\MyfirstApp02\obj\Debug\RoadBook.CsharpBasic.Chapter03.csproj.SuggestedBindingRedirects.cache
+D:\study\(문법공부\c,c#,c++\C#\새 폴더\RoadBook.CsharpBasic.Chapter03\MyfirstApp02\obj\Debug\RoadBook.CsharpBasic.Chapter03.csproj.CoreCompileInputs.cache
+D:\study\(문법공부\c,c#,c++\C#\새 폴더\RoadBook.CsharpBasic.Chapter03\MyfirstApp02\obj\Debug\MyfirstApp02.exe
+D:\study\(문법공부\c,c#,c++\C#\새 폴더\RoadBook.CsharpBasic.Chapter03\MyfirstApp02\obj\Debug\MyfirstApp02.pdb
