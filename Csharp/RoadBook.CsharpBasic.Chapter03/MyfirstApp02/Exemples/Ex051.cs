@@ -30,7 +30,7 @@ namespace MyfirstApp02.Exemples
         {
             #region 형태
             private string size;
-            public string color;
+            private string color;
 
             public void setSize(string size)
             {
