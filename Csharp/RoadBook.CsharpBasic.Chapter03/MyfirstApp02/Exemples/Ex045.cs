@@ -19,7 +19,7 @@ namespace MyfirstApp02.Exemples
             
             int fac042 = 1;
 
-            for (; index > 0 ; index--)
+            for (; index > 0 ; index--) // for문에 범위를 지정하거나 조건걸어서 break 실행하기
             {
                 fac042  *= index; // 여기에 int 적지마
             }
@@ -31,3 +31,4 @@ namespace MyfirstApp02.Exemples
         }
     }
 }
+    
