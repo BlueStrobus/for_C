@@ -44,6 +44,29 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Exemples\Ex001.cs" />
+    <Compile Include="Exemples\Ex0011.cs" />
+    <Compile Include="Exemples\EX008.cs" />
+    <Compile Include="Exemples\Ex042.cs" />
+    <Compile Include="Exemples\Ex045.cs" />
+    <Compile Include="Exemples\Ex051.cs" />
+    <Compile Include="Exemples\Ex055.cs" />
+    <Compile Include="Exemples\Ex056.cs" />
+    <Compile Include="Exemples\Ex058.cs" />
+    <Compile Include="Exemples\Ex061.cs" />
+    <Compile Include="Exemples\Ex0610.cs" />
+    <Compile Include="Exemples\Ex062.cs" />
+    <Compile Include="Exemples\Ex064.cs" />
+    <Compile Include="Exemples\Ex067.cs" />
+    <Compile Include="Exemples\Ex068.cs" />
+    <Compile Include="Exemples\Ex069.cs" />
+    <Compile Include="Exemples\Ex0703.cs" />
+    <Compile Include="Exemples\Ex0704.cs" />
+    <Compile Include="Exemples\Ex1010000.cs" />
+    <Compile Include="Exemples\Model\Board.cs" />
+    <Compile Include="Exemples\multiplication_tables.cs" />
+    <Compile Include="Exemples\Service\BoardService.cs" />
+    <Compile Include="Exemples\영한사Ex12전.cs" />
+    <Compile Include="makeDb\Db001.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

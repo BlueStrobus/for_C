@@ -10,8 +10,8 @@ namespace MyfirstApp02
     {
         static void Main(string[] args)
         {
-            Exemples.Ex001 ex = new Exemples.Ex001();
+            makeDb.Db001 ex = new makeDb.Db001();
             ex.Run();
-        }
-    }
-}
+        }   
+    }    
+} 
