@@ -6,7 +6,7 @@ using System.IO;
 //using System.Threading.Tasks;
 
 namespace MyfirstApp02.makeDb
-{
+{// 디렉토리 생성
     public class Db001
     {
         private readonly string currentDirectory = Environment.CurrentDirectory;
