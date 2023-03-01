@@ -15,7 +15,7 @@ namespace MyfirstApp02.Exemples.Service
             this.board = new Model.Board();
         }
 
-        public BoardService(Model.Board board)
+        public BoardService(Model.Board board) // (생성자)
         {
             this.board = board;
         }
